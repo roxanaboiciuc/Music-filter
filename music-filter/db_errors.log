@@ -1,0 +1,55 @@
+2020-05-17 15:00:07 <----> SQLSTATE[42S02]: Base table or view not found: 1146 Table 'test.playlist' doesn't exist
+2020-05-17 15:25:18 <----> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIKE '%scorpions%' OR song_name LIKE '%scorpions%' OR album LIKE '%scorpions%' O' at line 1
+2020-05-17 15:30:26 <----> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIKE '%scorpions%' OR song_name LIKE '%scorpions%' OR album LIKE '%scorpions%' O' at line 1
+2020-05-17 15:32:34 <----> SQLSTATE[42S22]: Column not found: 1054 Unknown column 'artist' in 'field list'
+2020-05-17 15:33:35 <----> SQLSTATE[42S22]: Column not found: 1054 Unknown column 'artist' in 'field list'
+2020-05-17 15:34:06 <----> SQLSTATE[42S22]: Column not found: 1054 Unknown column 'artist' in 'field list'
+2020-05-17 16:47:26 <----> SQLSTATE[42S22]: Column not found: 1054 Unknown column 'artist' in 'order clause'
+2020-05-17 17:23:00 <----> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIKE '%epica%' OR song_name LIKE '%epica%' OR album LIKE '%epica%' OR released L' at line 1
+2020-05-17 17:23:38 <----> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIKE '%epica%' OR song_name LIKE '%epica%' OR album LIKE '%epica%' OR released L' at line 1
+2020-05-17 17:25:36 <----> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIKE '%Epica%' OR song_name LIKE '%Epica%' OR album LIKE '%Epica%' OR released L' at line 1
+2020-05-17 17:26:24 <----> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIKE '%Epica%' ORDER BY artist ASC' at line 1
+2020-05-17 17:26:38 <----> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIKE '%Epica%' ORDER BY artist ASC' at line 1
+2020-05-17 17:27:06 <----> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIKE '%Epica%' ORDER BY artist ASC' at line 1
+2020-05-17 17:29:57 <----> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIKE '%metal%' ORDER BY artist ASC' at line 1
+2020-05-17 17:30:11 <----> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIKE '%epica%' ORDER BY artist ASC' at line 1
+2020-05-17 17:36:02 <----> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIKE '%epica%' ORDER BY artist ASC' at line 1
+2020-05-18 17:18:15 <----> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIKE '%epica%' ORDER BY artist ASC' at line 1
+2020-05-18 17:19:36 <----> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIKE '%epica%' ORDER BY artist ASC' at line 1
+2020-05-18 17:20:06 <----> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIKE '%epica%' ORDER BY artist ASC' at line 1
+2020-05-18 17:20:19 <----> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIKE '%epica%' ORDER BY artist ASC' at line 1
+2020-05-18 17:20:19 <----> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIKE '%epica%' ORDER BY artist ASC' at line 1
+2020-05-18 17:21:17 <----> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIKE '%epica%' ORDER BY artist ASC' at line 1
+2020-05-18 18:28:09 <----> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIKE '%epica%' ORDER BY artist ASC' at line 1
+2020-05-18 18:28:37 <----> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIKE '%epica%' ORDER BY artist ASC' at line 1
+2020-05-18 18:39:28 <----> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIKE '%epica%' ORDER BY artist ASC' at line 1
+2020-05-18 18:40:07 <----> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIKE '%cdcdcdc%' ORDER BY artist ASC' at line 1
+2020-05-18 18:45:17 <----> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIKE '%epica%' ORDER BY artist ASC' at line 1
+2020-05-18 18:47:55 <----> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIKE '%epica%' ORDER BY artist ASC' at line 1
+2020-05-18 18:51:55 <----> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIKE '%epica%' ORDER BY artist ASC' at line 1
+2020-05-18 19:03:48 <----> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIKE '%park%' ORDER BY artist ASC' at line 1
+2020-05-18 19:05:48 <----> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIKE '%park%' ORDER BY released ASC' at line 1
+2020-05-18 19:09:58 <----> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIKE '%park%'' at line 1
+2020-05-19 15:06:05 <----> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIKE '%metal%' ORDER BY released ASC' at line 1
+2020-05-19 16:08:07 <----> SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+2020-05-19 16:09:02 <----> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIKE '%epica%' ORDER BY released ASC' at line 1
+2020-05-19 16:11:36 <----> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIKE '%epica%' ORDER BY released ASC' at line 1
+2020-05-19 16:20:00 <----> SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+2020-05-19 16:34:57 <----> SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+2020-05-19 16:35:57 <----> SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+2020-05-19 16:42:23 <----> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIKE ''ORDER BY released ASC' at line 1
+2020-05-19 16:42:43 <----> SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+2020-05-19 16:46:33 <----> SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIKE 'Array'ORDER BY released ASC' at line 1
+2020-05-19 16:46:56 <----> SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+2020-05-19 16:47:02 <----> SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+2020-05-19 16:55:04 <----> SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+2020-05-19 16:59:14 <----> SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+2020-05-19 17:04:23 <----> SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+2020-05-19 17:07:51 <----> SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+2020-05-19 17:11:46 <----> SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+2020-05-19 17:28:08 <----> SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+2020-05-19 17:31:35 <----> SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+2020-05-19 17:31:42 <----> SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+2020-05-19 17:42:36 <----> SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+2020-05-19 17:50:51 <----> SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+2020-05-19 18:06:14 <----> SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
